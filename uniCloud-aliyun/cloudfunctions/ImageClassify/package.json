@@ -1,0 +1,7 @@
+{
+  "name": "ImageClassify",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
